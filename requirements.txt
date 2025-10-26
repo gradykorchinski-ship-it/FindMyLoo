@@ -1,0 +1,6 @@
+requests>=2.31.0
+
+# optional dependencies
+# folium>=0.15.0
+# tkhtmlview>=0.3.1
+# pyinstaller>=6.0.0
