@@ -8,7 +8,8 @@ import threading
 IPINFO_URL = "https://ipinfo.io/json"
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
-USER_AGENT = "NearestWashroomFinder/1.0 (your_email@example.com)"
+USER_AGENT = "NearestWashroomFinder/1.0 (grady.korchinski@gmail.
+com)"
 
 HEADERS = {"User-Agent": USER_AGENT}
 
